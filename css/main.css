@@ -1,5 +1,6 @@
 html {
-   background-color: yellow;
+   background-color: black
+   color pink;
 }
 
 h1 {
@@ -16,6 +17,8 @@ h1 {
 
 h3 {
    font-family: helvetica;
+   font-size: 15pt;
+   font-style: bold;
 }
 
 h5 {
@@ -24,3 +27,8 @@ h5 {
    font-size: 10pt;
    padding: 50px;
 }
+nav {
+   font-style: italic;
+   padding: 50px
+}
+p {padding: 25px}
