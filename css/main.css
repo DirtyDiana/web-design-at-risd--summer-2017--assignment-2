@@ -4,7 +4,7 @@ html {
 }
 
 h1 {
-   font-family: helvetica;
+   font-family: Helvetica;
    font-size: 48pt;
    color:gray;
 
@@ -13,7 +13,7 @@ h1 {
 
 .quote {
    font-family: helvetica;
-   font-size: 12pt;
+   font-size: 18pt;
    padding: 40px;
 }
 
