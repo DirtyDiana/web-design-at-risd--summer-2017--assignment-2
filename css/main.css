@@ -1,12 +1,14 @@
 html {
-   background-color: black
-   color pink;
+   background-color: black;
+   color:white;
 }
 
 h1 {
    font-family: helvetica;
    font-size: 48pt;
-   color:pink;
+   color:gray;
+
+
 }
 
 .quote {
